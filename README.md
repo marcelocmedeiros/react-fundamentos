@@ -1,10 +1,6 @@
 # Curso Fundamentos de React
 
-Curso fala sobre os conceitos básicos de TypeScript e Orientação a Objetos.
-
-## Neste Curso
-
-O curso aborda:
+## O curso aborda:
 
 - **Componentes**: configurado o projeto e explorado o conceito mais importante de React: componente.
 - **Fundamentos**: Os principais conceitos de React: componentes com props, componentes com filhos, eventos, navegação, etc.
